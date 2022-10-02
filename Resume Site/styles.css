@@ -1,0 +1,126 @@
+/***tag selectors***/
+a:hover{
+    color:#9772FB; 
+}
+
+img {  
+    max-width: 50%;  
+    height: 200px;  
+    }  
+
+body{
+    background-color: #EEEEEE;
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+div{
+    padding: 20px 0 10px 0;
+}
+
+h1{
+    color: #7895B2;
+}
+
+h2{
+    color: #9772FB
+}
+
+h3{
+    color: #BC8CF2;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: aliceblue;
+    border-width: 5px;
+    width: 30%;
+}
+
+/***class selectors***/
+.btn {
+    background: #A98B98;
+    background-image: -webkit-linear-gradient(top, #A98B98, #c59ddd);
+    background-image: -moz-linear-gradient(top, #A98B98, #c59ddd);
+    background-image: -ms-linear-gradient(top, #A98B98, #c59ddd);
+    background-image: -o-linear-gradient(top, #A98B98, #c59ddd);
+    background-image: linear-gradient(to bottom, #A98B98, #c59ddd);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #9D84B7;
+    background-image: -webkit-linear-gradient(top, #9D84B7, #b7a1cf);
+    background-image: -moz-linear-gradient(top, #9D84B7, #b7a1cf);
+    background-image: -ms-linear-gradient(top, #9D84B7, #b7a1cf);
+    background-image: -o-linear-gradient(top, #9D84B7, #b7a1cf);
+    background-image: linear-gradient(to bottom, #9D84B7, #b7a1cf);
+    text-decoration: none;
+  }
+
+  .bottom-container{
+    background-color: #A98B98;
+    padding: 30px 0 20px;
+  }
+
+  .credit{
+    font-size: .7rem;
+    text-decoration: none;
+    color: #cca7b7;
+  }
+
+  .copyright{
+    font-size: .7rem;
+    text-decoration: none;
+    color: #cca7b7;
+  }
+
+  .footer-link{
+    text-decoration: none;
+    color: #cca7b7;
+  }
+
+  .middle-container{
+    padding-bottom: 40px;
+  }
+
+  .repo-link:hover{
+    color: #597781;
+  }
+
+.school{
+    text-decoration: underline;
+}
+
+.skill-img{
+    height: 100px;
+    width: 10%;
+    float: left;
+    margin-right: 30px;
+    position: relative; top: -30px;
+}
+
+.skill-img-right{
+    height: 100px;
+    width: 15%;
+    float: right;
+    position: relative; top: -10px; right: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 10px auto 10px auto;
+    text-align: left;
+}
+
+.title{
+    font-size: 2.5rem;
+}
