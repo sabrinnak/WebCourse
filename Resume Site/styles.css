@@ -40,12 +40,12 @@ hr{
 
 /***class selectors***/
 .btn {
-    background: #A98B98;
-    background-image: -webkit-linear-gradient(top, #A98B98, #c59ddd);
-    background-image: -moz-linear-gradient(top, #A98B98, #c59ddd);
-    background-image: -ms-linear-gradient(top, #A98B98, #c59ddd);
-    background-image: -o-linear-gradient(top, #A98B98, #c59ddd);
-    background-image: linear-gradient(to bottom, #A98B98, #c59ddd);
+    background: #827397;
+    background-image: -webkit-linear-gradient(top, #827397, #c59ddd);
+    background-image: -moz-linear-gradient(top, #827397, #c59ddd);
+    background-image: -ms-linear-gradient(top, #827397, #c59ddd);
+    background-image: -o-linear-gradient(top, #827397, #c59ddd);
+    background-image: linear-gradient(to bottom, #827397, #c59ddd);
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
     border-radius: 8px;
