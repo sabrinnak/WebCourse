@@ -1,12 +1,12 @@
 {
   "name": "ejs-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Update of the blog website",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Sabrinna Kahl",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
